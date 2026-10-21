@@ -1,0 +1,9 @@
+# 构建 / 运行产物（build & runtime output）
+.tmp/
+out/
+
+# 依赖
+node_modules/
+
+# 日志
+*.log

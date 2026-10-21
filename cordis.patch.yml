@@ -1,0 +1,7 @@
+- insert:
+    - id: arknights-copilot
+      name: '@local/dsh-arknights-copilot'
+      config:
+        # MAA 的 resource 目录（里面有 Arknights-Tile-Pos/ 和 copilot/）。
+        # 留空则按常见路径自动探测。
+        maaResource: ''

@@ -1,0 +1,975 @@
+[
+ {
+  "file": "char_002_amiya",
+  "name": "阿米娅",
+  "en": "Amiya",
+  "forms": 3,
+  "via": "exact"
+ },
+ {
+  "file": "char_010_chen",
+  "name": "陈",
+  "en": "Ch'en",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_1001_amiya2",
+  "name": "阿米娅",
+  "en": "Amiya",
+  "forms": 3,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1011_lava2",
+  "name": "炎熔",
+  "en": "Lava",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1012_skadi2",
+  "name": "斯卡蒂",
+  "en": "Skadi",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1013_chen2",
+  "name": "陈",
+  "en": "Ch'en",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1014_nearl2",
+  "name": "临光",
+  "en": "Nearl",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1019_siege2",
+  "name": "推进之王",
+  "en": "Siege",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_101_sora",
+  "name": "空",
+  "en": "Sora",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_1020_reed2",
+  "name": "苇草",
+  "en": "Reed",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1021_kroos2",
+  "name": "克洛丝",
+  "en": "Kroos",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1027_greyy2",
+  "name": "格雷伊",
+  "en": "Greyy",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1028_texas2",
+  "name": "德克萨斯",
+  "en": "Texas",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1029_yato2",
+  "name": "夜刀",
+  "en": "Yato",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_102_texas",
+  "name": "德克萨斯",
+  "en": "Texas",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_1033_swire2",
+  "name": "诗怀雅",
+  "en": "Swire",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1036_fang2",
+  "name": "芬",
+  "en": "Fang",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1040_blaze2",
+  "name": "煌",
+  "en": "Blaze",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1043_leizi2",
+  "name": "惊蛰",
+  "en": "Leizi",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_1050_chen3",
+  "name": "陈",
+  "en": "Ch'en",
+  "forms": 1,
+  "via": "stripDigit"
+ },
+ {
+  "file": "char_106_franka",
+  "name": "芙兰卡",
+  "en": "Franka",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_112_siege",
+  "name": "推进之王",
+  "en": "Siege",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_117_myrrh",
+  "name": "末药",
+  "en": "Myrrh",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_121_lava",
+  "name": "炎熔",
+  "en": "Lava",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_122_beagle",
+  "name": "米格鲁",
+  "en": "Beagle",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_123_fang",
+  "name": "芬",
+  "en": "Fang",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_124_kroos",
+  "name": "克洛丝",
+  "en": "Kroos",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_134_ifrit",
+  "name": "伊芙利特",
+  "en": "Ifrit",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_147_shining",
+  "name": "闪灵",
+  "en": "Shining",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_148_nearl",
+  "name": "临光",
+  "en": "Nearl",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_151_myrtle",
+  "name": "桃金娘",
+  "en": "Myrtle",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_154_morgan",
+  "name": "摩根",
+  "en": "Morgan",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_157_dagda",
+  "name": "达格达",
+  "en": "Dagda",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_194_leto",
+  "name": "烈夏",
+  "en": "Leto",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_2012_typhon",
+  "name": "提丰",
+  "en": "Typhon",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_2014_nian",
+  "name": "年",
+  "en": "Nian",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_2015_dusk",
+  "name": "夕",
+  "en": "Dusk",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_2023_ling",
+  "name": "令",
+  "en": "Ling",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_2025_shu",
+  "name": "黍",
+  "en": "Shu",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_2026_yu",
+  "name": "余",
+  "en": "Yu",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_2027_wang",
+  "name": "望",
+  "en": "Wang",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_206_gnosis",
+  "name": "灵知",
+  "en": "Gnosis",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_212_ansel",
+  "name": "安赛尔",
+  "en": "Ansel",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_214_kafka",
+  "name": "卡夫卡",
+  "en": "Kafka",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_220_grani",
+  "name": "格拉尼",
+  "en": "Grani",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_230_savage",
+  "name": "暴行",
+  "en": "Savage",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_236_rope",
+  "name": "暗索",
+  "en": "Rope",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_237_gravel",
+  "name": "砾",
+  "en": "Gravel",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_243_waaifu",
+  "name": "槐琥",
+  "en": "Waai Fu",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_252_bibeak",
+  "name": "柏喙",
+  "en": "Bibeak",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_253_greyy",
+  "name": "格雷伊",
+  "en": "Greyy",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_260_durnar",
+  "name": "坚雷",
+  "en": "Dur-nar",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_263_skadi",
+  "name": "斯卡蒂",
+  "en": "Skadi",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_275_breeze",
+  "name": "微风",
+  "en": "Breeze",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_278_orchid",
+  "name": "梓兰",
+  "en": "Orchid",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_284_spot",
+  "name": "斑点",
+  "en": "Spot",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_290_vigna",
+  "name": "红豆",
+  "en": "Vigna",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_293_thorns",
+  "name": "棘刺",
+  "en": "Thorns",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_301_cutter",
+  "name": "刻刀",
+  "en": "Cutter",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_306_leizi",
+  "name": "惊蛰",
+  "en": "Leizi",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_308_swire",
+  "name": "诗怀雅",
+  "en": "Swire",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_325_bison",
+  "name": "拜松",
+  "en": "Bison",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_337_utage",
+  "name": "宴",
+  "en": "Utage",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_338_iris",
+  "name": "爱丽丝",
+  "en": "Iris",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_346_aosta",
+  "name": "奥斯塔",
+  "en": "Aosta",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_348_ceylon",
+  "name": "锡兰",
+  "en": "Ceylon",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_349_chiave",
+  "name": "贾维",
+  "en": "Chiave",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_350_surtr",
+  "name": "史尔特尔",
+  "en": "Surtr",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_355_ethan",
+  "name": "伊桑",
+  "en": "Ethan",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_356_broca",
+  "name": "布洛卡",
+  "en": "Broca",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_362_saga",
+  "name": "嵯峨",
+  "en": "Saga",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_369_bena",
+  "name": "贝娜",
+  "en": "Bena",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_379_sesa",
+  "name": "慑砂",
+  "en": "Sesa",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_381_bubble",
+  "name": "泡泡",
+  "en": "Bubble",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_388_mint",
+  "name": "薄绿",
+  "en": "Mint",
+  "forms": 2,
+  "via": "exact"
+ },
+ {
+  "file": "char_394_hadiya",
+  "name": "哈蒂娅",
+  "en": "Hadiya",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4009_irene",
+  "name": "艾丽妮",
+  "en": "Irene",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_400_weedy",
+  "name": "温蒂",
+  "en": "Weedy",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4013_kjera",
+  "name": "耶拉",
+  "en": "Kjera",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4015_spuria",
+  "name": "空构",
+  "en": "Spuria",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4017_puzzle",
+  "name": "谜图",
+  "en": "Puzzle",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_402_tuye",
+  "name": "图耶",
+  "en": "Tuye",
+  "forms": 2,
+  "via": "exact"
+ },
+ {
+  "file": "char_4039_horn",
+  "name": "号角",
+  "en": "Horn",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4042_lumen",
+  "name": "流明",
+  "en": "Lumen",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4043_erato",
+  "name": "埃拉托",
+  "en": "Erato",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4045_heidi",
+  "name": "海蒂",
+  "en": "Heidi",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4051_akkord",
+  "name": "协律",
+  "en": "Akkord",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4052_surfer",
+  "name": "寻澜",
+  "en": "Surfer",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4056_titi",
+  "name": "缇缇",
+  "en": "Titi",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4058_pepe",
+  "name": "佩佩",
+  "en": "Pepe",
+  "forms": 2,
+  "via": "exact"
+ },
+ {
+  "file": "char_4062_totter",
+  "name": "铅踝",
+  "en": "Totter",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4063_quartz",
+  "name": "石英",
+  "en": "Quartz",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4080_lin",
+  "name": "林",
+  "en": "Lin",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4081_warmy",
+  "name": "温米",
+  "en": "Warmy",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4082_qiubai",
+  "name": "仇白",
+  "en": "Qiubai",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4087_ines",
+  "name": "伊内丝",
+  "en": "Ines",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4100_caper",
+  "name": "跃跃",
+  "en": "Caper",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4105_almond",
+  "name": "杏仁",
+  "en": "Almond",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4114_harold",
+  "name": "哈洛德",
+  "en": "Harold",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4117_ray",
+  "name": "莱伊",
+  "en": "Ray",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_411_tomimi",
+  "name": "特米米",
+  "en": "Tomimi",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4121_zuole",
+  "name": "左乐",
+  "en": "Zuo Le",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4123_ela",
+  "name": "艾拉",
+  "en": "Ela",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4124_iana",
+  "name": "双月",
+  "en": "Iana",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4126_fuze",
+  "name": "导火索",
+  "en": "Fuze",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4131_odda",
+  "name": "奥达",
+  "en": "Odda",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4133_logos",
+  "name": "逻各斯",
+  "en": "Logos",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4142_laios",
+  "name": "莱欧斯",
+  "en": "Laios",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4146_nymph",
+  "name": "妮芙",
+  "en": "Nymph",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4147_mitm",
+  "name": "渡桥",
+  "en": "Mitm",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4148_philae",
+  "name": "菲莱",
+  "en": "Philae",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4151_tinman",
+  "name": "锡人",
+  "en": "Tin Man",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_415_flint",
+  "name": "燧石",
+  "en": "Flint",
+  "forms": 2,
+  "via": "exact"
+ },
+ {
+  "file": "char_4164_tecno",
+  "name": "特克诺",
+  "en": "Tecno",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4173_nowell",
+  "name": "诺威尔",
+  "en": "Nowell",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4177_brigid",
+  "name": "水灯心",
+  "en": "Brigid",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4178_alanna",
+  "name": "阿兰娜",
+  "en": "Alanna",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4191_tippi",
+  "name": "蒂比",
+  "en": "Tippi",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4193_lemuen",
+  "name": "蕾缪安",
+  "en": "Lemuen",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4202_haruka",
+  "name": "遥",
+  "en": "Haruka",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4204_mantra",
+  "name": "真言",
+  "en": "Mantra",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4212_nasti",
+  "name": "娜斯提",
+  "en": "Nasti",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4214_cairn",
+  "name": "响石",
+  "en": "Cairn",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4221_ju",
+  "name": "矩",
+  "en": "Ju",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_4227_gallus",
+  "name": "GALLUS²",
+  "en": "GALLUS²",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_422_aurora",
+  "name": "极光",
+  "en": "Aurora",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_427_vigil",
+  "name": "伺夜",
+  "en": "Vigil",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_437_mizuki",
+  "name": "水月",
+  "en": "Mizuki",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_446_aroma",
+  "name": "阿罗玛",
+  "en": "Aroma",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_451_robin",
+  "name": "罗宾",
+  "en": "Robin",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_456_ash",
+  "name": "灰烬",
+  "en": "Ash",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_457_blitz",
+  "name": "闪击",
+  "en": "Blitz",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_464_cement",
+  "name": "洋灰",
+  "en": "Cement",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_469_indigo",
+  "name": "深靛",
+  "en": "Indigo",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_478_kirara",
+  "name": "绮良",
+  "en": "Kirara",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_485_pallas",
+  "name": "帕拉斯",
+  "en": "Pallas",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_491_humus",
+  "name": "休谟斯",
+  "en": "Humus",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_501_durin",
+  "name": "杜林",
+  "en": "Durin",
+  "forms": 1,
+  "via": "exact"
+ },
+ {
+  "file": "char_617_sharp2",
+  "name": "Sharp",
+  "en": "Sharp",
+  "forms": 2,
+  "via": "stripDigit"
+ }
+]

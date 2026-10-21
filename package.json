@@ -1,0 +1,19 @@
+{
+  "name": "@local/dsh-arknights-copilot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Arknights MAA copilot (作业) tools: validate scripts against real map tile data, inspect grids, scaffold new scripts.",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json",
+    "./locale/*.json": "./locale/*.json"
+  },
+  "files": ["index.js", "lib/*.js", "locale/*.json", "icon.svg", "README.md"],
+  "icon": "./icon.svg",
+  "meta": {
+    "title": "明日方舟作业（MAA copilot）",
+    "description": "校验/生成 MAA 作业脚本：用 MAA 自己的 4269 张地图格子数据，在载入前抓出\"格子是墙\"这类错误。"
+  },
+  "dsh": { "bundle": { "patch": "./cordis.patch.yml" } }
+}

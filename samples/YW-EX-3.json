@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "stage_name": "act52side_ex03",
+  "difficulty": 3,
+  "minimum_required": "v6.0.0",
+  "doc": {
+    "title": "昨日海 - YW-EX-3 兼容一摆到底",
+    "details": "原作者：萧然Q json作者：萨拉托加\n作业交流群 https://qm.qq.com/q/tzmJTomYDK ，可蹲作业，有问题进群找我，作业站消息没提醒看不到\n\n作业练度培养查询网站https://annangela.github.io/maa-job-training-list\n【【昨日海】YW-EX-1至YW-EX-8突袭 摆完挂机 简单好抄】 https://www.bilibili.com/video/BV1dvJX6ZEde/?share_source=copy_web&vd_source=3fd5040fe25f6a00e19e6072bcccfa4e"
+  },
+  "opers": [
+    {
+      "name": "圣聆初雪",
+      "skill": 2,
+      "requirements": {
+        "elite": 2,
+        "level": 60,
+        "skill_level": 10,
+        "module": -1,
+        "potentiality": 1
+      }
+    },
+    {
+      "name": "德克萨斯",
+      "skill": 1,
+      "requirements": {
+        "elite": 2,
+        "level": 40,
+        "skill_level": 7,
+        "module": -1,
+        "potentiality": 1
+      }
+    },
+    {
+      "name": "阿斯卡纶",
+      "skill": 1,
+      "requirements": {
+        "elite": 2,
+        "level": 60,
+        "skill_level": 10,
+        "module": -1,
+        "potentiality": 1
+      }
+    }
+  ],
+  "groups": [],
+  "actions": [
+    {
+      "name": "德克萨斯",
+      "type": "Deploy",
+      "location": [
+        3,
+        5
+      ],
+      "direction": "Up"
+    },
+    {
+      "name": "障碍物",
+      "type": "Deploy",
+      "location": [
+        9,
+        2
+      ],
+      "direction": "None"
+    },
+    {
+      "name": "障碍物",
+      "type": "Deploy",
+      "location": [
+        7,
+        3
+      ],
+      "direction": "None"
+    },
+    {
+      "name": "圣聆初雪",
+      "type": "Deploy",
+      "location": [
+        2,
+        4
+      ],
+      "direction": "Down"
+    },
+    {
+      "name": "阿斯卡纶",
+      "type": "Deploy",
+      "location": [
+        3,
+        4
+      ],
+      "direction": "Up"
+    },
+    {
+      "type": "SpeedUp"
+    },
+    {
+      "type": "SkillDaemon"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "minimum_required": "v4.0.0",
+  "stage_name": "YW-1",
+  "opers": [
+    {
+      "name": "能天使"
+    },
+    {
+      "name": "德克萨斯"
+    },
+    {
+      "name": "银灰"
+    },
+    {
+      "name": "阿米娅"
+    }
+  ],
+  "groups": [],
+  "actions": [
+    {
+      "type": "Deploy",
+      "name": "能天使",
+      "location": [
+        2,
+        1
+      ],
+      "direction": "Right",
+      "kills": 10
+    },
+    {
+      "type": "Deploy",
+      "name": "德克萨斯",
+      "location": [
+        6,
+        3
+      ],
+      "direction": "Right",
+      "kills": 20
+    },
+    {
+      "type": "Deploy",
+      "name": "银灰",
+      "location": [
+        8,
+        4
+      ],
+      "direction": "Right",
+      "kills": 30
+    },
+    {
+      "type": "Deploy",
+      "name": "阿米娅",
+      "location": [
+        7,
+        4
+      ],
+      "direction": "Right",
+      "kills": 40
+    }
+  ],
+  "doc": {
+    "title": "YW-1 视频解析自动生成",
+    "details": ""
+  }
+}

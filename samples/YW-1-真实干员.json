@@ -1,0 +1,68 @@
+{
+  "minimum_required": "v4.0.0",
+  "stage_name": "YW-1",
+  "opers": [
+    {
+      "name": "陈"
+    },
+    {
+      "name": "煌"
+    },
+    {
+      "name": "阿米娅"
+    },
+    {
+      "name": "凯尔希"
+    }
+  ],
+  "groups": [],
+  "actions": [
+    {
+      "type": "Deploy",
+      "name": "陈",
+      "location": [
+        2,
+        1
+      ],
+      "direction": "Right",
+      "kills": 10
+    },
+    {
+      "type": "Deploy",
+      "name": "煌",
+      "location": [
+        6,
+        3
+      ],
+      "direction": "Right",
+      "kills": 20
+    },
+    {
+      "type": "Deploy",
+      "name": "阿米娅",
+      "location": [
+        8,
+        4
+      ],
+      "direction": "Right",
+      "kills": 20
+    },
+    {
+      "type": "Deploy",
+      "name": "凯尔希",
+      "location": [
+        7,
+        4
+      ],
+      "direction": "Right",
+      "kills": 20
+    },
+    {
+      "type": "SkillDaemon"
+    }
+  ],
+  "doc": {
+    "title": "YW-1 视频解析（真实干员名）",
+    "details": ""
+  }
+}
